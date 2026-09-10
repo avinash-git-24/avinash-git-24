@@ -32,8 +32,7 @@ focus: Full-Stack Architecture, Real-Time Systems & Campus Tech
 currently_building: UniVerse — The Campus Super-App for snacks, peer delivery & resale
 learning: Advanced Next.js Architecture, Cloud Database Scaling & Web Performance
 
----
-
+```
 ### 🛠️ Tech Stack & Skills
 
 <div align="center">
