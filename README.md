@@ -72,7 +72,7 @@ learning: Advanced Next.js Architecture, Cloud Database Scaling & Web Performanc
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=avinash-git-24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E676&icon_color=00E676&text_color=c9d1d9" alt="Avinash's GitHub stats" height="160" />
+        <img src="https://github-stats-extended.vercel.app/api?username=avinash-git-24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E676&icon_color=00E676&text_color=c9d1d9" alt="Avinash's GitHub stats" height="160" />
       </td>
       <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=avinash-git-24&theme=tokyonight&hide_border=true&background=0D1117&ring=00E676&fire=00E676&currStreakLabel=00E676" alt="Avinash's Streak" height="160" />
@@ -82,7 +82,7 @@ learning: Advanced Next.js Architecture, Cloud Database Scaling & Web Performanc
 
   <br />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinash-git-24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E676&text_color=c9d1d9" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=avinash-git-24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E676&text_color=c9d1d9" alt="Top Languages" />
 </div>
 
 ---
