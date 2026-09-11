@@ -10,8 +10,14 @@
   </p>
 
   <p align="center">
+    <a href="https://github.com/sponsors/avinash-git-24" target="_blank">
+      <img src="https://img.shields.io/badge/Sponsor-Avinash-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor Avinash">
+    </a>
     <a href="https://universe-brown-seven.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/Live_Project-UniVerse-00E676?style=for-the-badge&logo=vercel&logoColor=black" alt="UniVerse Live">
+      <img src="https://img.shields.io/badge/UniVerse-Live-00E676?style=for-the-badge&logo=vercel&logoColor=black" alt="UniVerse Live">
+    </a>
+    <a href="https://github.com/avinash-git-24/universe" target="_blank">
+      <img src="https://img.shields.io/badge/UniVerse-Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="UniVerse Code">
     </a>
     <a href="mailto:support@universe-campus.app">
       <img src="https://img.shields.io/badge/Email-Contact_Me-10B981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
