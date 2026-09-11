@@ -46,34 +46,25 @@ learning: Advanced Cloud Scaling, Microservices & Web Performance
 ### 🚀 Featured Project: UniVerse
 
 <div align="center">
-  <table border="0" width="100%">
-    <tr>
-      <td width="58%" align="left">
-        <h3>🎒 UniVerse — Campus Super-App & Delivery Network</h3>
-        <p>UniVerse solves hostel cravings and campus logistics at Marwadi University through peer-to-peer micro-deliveries, hostel snack ordering, campus resale marketplace, and real-time order tracking.</p>
-        <p>
-          <b>✨ Highlights:</b><br/>
-          • 🍔 <b>Hostel Midnight Bites:</b> Order noodles, drinks & snacks directly to hostel room.<br/>
-          • 🚀 <b>Deliver & Earn:</b> Students earn pocket money delivering orders across campus.<br/>
-          • 📦 <b>Campus Resale & Lost & Found:</b> Buy/sell books, cycles, calculators & gadgets.<br/>
-          • ⚡ <b>Modern Architecture:</b> Next.js 16 App Router, React 19, Supabase Realtime & Auth.
-        </p>
-        <p>
-          <a href="https://universe-brown-seven.vercel.app" target="_blank">
-            <img src="https://img.shields.io/badge/View_Live_App-00E676?style=flat-square&logo=vercel&logoColor=black" alt="Live Demo" />
-          </a>
-          <a href="https://github.com/avinash-git-24/universe" target="_blank">
-            <img src="https://img.shields.io/badge/GitHub_Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repo" />
-          </a>
-        </p>
-      </td>
-      <td width="42%" align="center">
-        <a href="https://github.com/avinash-git-24/universe">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=avinash-git-24&repo=universe&theme=tokyonight&bg_color=0D1117&border_color=00E676&title_color=00E676&icon_color=00E676" alt="UniVerse Repo Card" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/avinash-git-24/universe">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=avinash-git-24&repo=universe&theme=tokyonight&bg_color=0D1117&border_color=00E676&title_color=00E676&icon_color=00E676" alt="UniVerse Repo Card" />
+  </a>
+
+  <br />
+
+  <p align="center">
+    <strong>🎓 Student-to-Student Campus Delivery & Super-App for Marwadi University</strong><br/>
+    Hostel Midnight Bites • Peer Micro-Deliveries ("Deliver & Earn") • Campus Resale Marketplace
+  </p>
+
+  <p align="center">
+    <a href="https://universe-brown-seven.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/Live_App-Visit_UniVerse-00E676?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo" />
+    </a>
+    <a href="https://github.com/avinash-git-24/universe" target="_blank">
+      <img src="https://img.shields.io/badge/Repository-UniVerse-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
+    </a>
+  </p>
 </div>
 
 ---
@@ -117,7 +108,7 @@ learning: Advanced Cloud Scaling, Microservices & Web Performance
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=avinash-git-24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E676&icon_color=00E676&text_color=c9d1d9" alt="Avinash's GitHub stats" height="160" />
+        <img src="https://github-stats-extended.vercel.app/api?username=avinash-git-24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E676&icon_color=00E676&text_color=c9d1d9" alt="Avinash's GitHub stats" height="160" />
       </td>
       <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=avinash-git-24&theme=tokyonight&hide_border=true&background=0D1117&ring=00E676&fire=00E676&currStreakLabel=00E676" alt="Avinash's Streak" height="160" />
@@ -127,7 +118,7 @@ learning: Advanced Cloud Scaling, Microservices & Web Performance
 
   <br />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinash-git-24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E676&text_color=c9d1d9" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=avinash-git-24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E676&text_color=c9d1d9" alt="Top Languages" />
 </div>
 
 ---
