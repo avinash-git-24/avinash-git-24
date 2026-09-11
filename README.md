@@ -10,14 +10,8 @@
   </p>
 
   <p align="center">
-    <a href="https://github.com/sponsors/avinash-git-24" target="_blank">
-      <img src="https://img.shields.io/badge/Sponsor_Me-💖-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor Avinash">
-    </a>
     <a href="https://universe-brown-seven.vercel.app" target="_blank">
       <img src="https://img.shields.io/badge/Live_Project-UniVerse-00E676?style=for-the-badge&logo=vercel&logoColor=black" alt="UniVerse Live">
-    </a>
-    <a href="https://github.com/avinash-git-24/universe" target="_blank">
-      <img src="https://img.shields.io/badge/Source_Code-UniVerse-181717?style=for-the-badge&logo=github&logoColor=white" alt="UniVerse Code">
     </a>
     <a href="mailto:support@universe-campus.app">
       <img src="https://img.shields.io/badge/Email-Contact_Me-10B981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
@@ -32,43 +26,13 @@
 
 ```yaml
 name: Avinash Kumar
-role: Full-Stack Web Developer & Open-Source Contributor
-education: B.Tech Computer Science & Engineering @ Marwadi University 🎓
+education: B.Tech Computer Science & Engineering @ Marwadi University
 location: Gujarat, India 🇮🇳
-focus: Real-Time Web Apps, Scalable Systems & Campus Ecosystems
-flagship_project: UniVerse — Campus Super-App for snacks, peer delivery & marketplace
-tech_stack: [Next.js 16, React 19, TypeScript, Supabase, Tailwind CSS, PostgreSQL]
-learning: Advanced Cloud Scaling, Microservices & Web Performance
+focus: Full-Stack Architecture, Real-Time Systems & Campus Tech
+currently_building: UniVerse — The Campus Super-App for snacks, peer delivery & resale
+learning: Advanced Next.js Architecture, Cloud Database Scaling & Web Performance
+
 ```
-
----
-
-### 🚀 Featured Project: UniVerse
-
-<div align="center">
-  <a href="https://github.com/avinash-git-24/universe">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=avinash-git-24&repo=universe&theme=tokyonight&bg_color=0D1117&border_color=00E676&title_color=00E676&icon_color=00E676" alt="UniVerse Repo Card" />
-  </a>
-
-  <br />
-
-  <p align="center">
-    <strong>🎓 Student-to-Student Campus Delivery & Super-App for Marwadi University</strong><br/>
-    Hostel Midnight Bites • Peer Micro-Deliveries ("Deliver & Earn") • Campus Resale Marketplace
-  </p>
-
-  <p align="center">
-    <a href="https://universe-brown-seven.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/Live_App-Visit_UniVerse-00E676?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo" />
-    </a>
-    <a href="https://github.com/avinash-git-24/universe" target="_blank">
-      <img src="https://img.shields.io/badge/Repository-UniVerse-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
-    </a>
-  </p>
-</div>
-
----
-
 ### 🛠️ Tech Stack & Skills
 
 <div align="center">
@@ -123,17 +87,6 @@ learning: Advanced Cloud Scaling, Microservices & Web Performance
 
 ---
 
-### 💖 Support My Open-Source Work
-
 <div align="center">
-  <p>If you find my projects or contributions helpful, consider sponsoring me! It motivates me to build and maintain more campus and open-source tools.</p>
-  <a href="https://github.com/sponsors/avinash-git-24" target="_blank">
-    <img src="https://img.shields.io/badge/Sponsor_@avinash--git--24-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor Avinash on GitHub Sponsors" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <sub>Designed with ❤️ by <b>Avinash Kumar</b> • Powered by Open Source</sub>
+  <sub>Designed with ❤️ by Avinash Kumar • Built on Next.js & Open Source</sub>
 </div>
