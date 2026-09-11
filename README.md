@@ -10,9 +10,6 @@
   </p>
 
   <p align="center">
-    <a href="https://github.com/sponsors/avinash-git-24" target="_blank">
-      <img src="https://img.shields.io/badge/Sponsor-Avinash-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor Avinash">
-    </a>
     <a href="https://universe-brown-seven.vercel.app" target="_blank">
       <img src="https://img.shields.io/badge/UniVerse-Live-00E676?style=for-the-badge&logo=vercel&logoColor=black" alt="UniVerse Live">
     </a>
@@ -21,6 +18,9 @@
     </a>
     <a href="mailto:support@universe-campus.app">
       <img src="https://img.shields.io/badge/Email-Contact_Me-10B981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+    <a href="https://github.com/sponsors/avinash-git-24" target="_blank">
+      <img src="https://img.shields.io/badge/Sponsor-Avinash-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor Avinash">
     </a>
   </p>
 
