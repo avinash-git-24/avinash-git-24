@@ -16,7 +16,7 @@
     <a href="https://github.com/avinash-git-24/universe" target="_blank">
       <img src="https://img.shields.io/badge/UniVerse-Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="UniVerse Code">
     </a>
-    <a href="https://www.linkedin.com/in/avinash-kumar-86710b33a" target="_blank">
+    <a href="https://www.linkedin.com/in/avinash-universe" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="mailto:support@universe-campus.app">
