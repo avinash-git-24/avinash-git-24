@@ -52,6 +52,26 @@ learning: Advanced Next.js Architecture, Cloud Database Scaling & Web Performanc
 
 ---
 
+### 🚀 Featured Project: UniVerse — Campus Super-App
+
+> ### 🪐 [UniVerse • Campus Tech Ecosystem](https://universe-brown-seven.vercel.app)
+> **A high-performance full-stack web application designed for campus life, real-time peer delivery, and student commerce.**
+>
+> - ⚡ **Real-Time Communication:** Live WebSockets chat, order dispatching, and runner notifications powered by Supabase Realtime.
+> - 🛡️ **Escrow-Protected Resale:** Peer-to-peer student marketplace with anti-fraud security and OTP-confirmed handovers.
+> - 💻 **Modern Architecture:** Next.js 16 (App Router), TypeScript, Tailwind CSS, PostgreSQL, Supabase RLS security policies.
+>
+> <br />
+>
+> <a href="https://universe-brown-seven.vercel.app" target="_blank">
+>   <img src="https://img.shields.io/badge/Live_Web_App-00E676?style=for-the-badge&logo=vercel&logoColor=black" alt="UniVerse Live Demo">
+> </a>
+> <a href="https://github.com/avinash-git-24/universe" target="_blank">
+>   <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="UniVerse Code">
+> </a>
+
+---
+
 ### 💻 What I Work With
 
 #### 🌐 Languages
@@ -131,6 +151,45 @@ learning: Advanced Next.js Architecture, Cloud Database Scaling & Web Performanc
     <img alt="Avinash's GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/avinash-git-24/avinash-git-24/output/github-contribution-grid-snake-dark.svg" width="100%" />
   </picture>
 </div>
+
+---
+
+### 🏆 GitHub Achievements
+
+<p align="left">
+  <a href="https://github.com/avinash-git-24?tab=achievements" target="_blank">
+    <img src="https://img.shields.io/badge/YOLO-Unlocked_🏴-00E676?style=for-the-badge&logo=github&logoColor=white" alt="YOLO Badge">
+  </a>
+  <a href="https://github.com/avinash-git-24?tab=achievements" target="_blank">
+    <img src="https://img.shields.io/badge/Pull_Shark-Unlocked_🦈-00B0FF?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark Badge">
+  </a>
+  <a href="https://github.com/avinash-git-24?tab=achievements" target="_blank">
+    <img src="https://img.shields.io/badge/Pair_Extraordinaire-Unlocked_👯-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Pair Extraordinaire Badge">
+  </a>
+</p>
+
+---
+
+### 📬 Let's Connect & Collaborate
+
+<p align="left">
+  Always open to full-stack opportunities, open-source collaborations, and tech innovations!
+</p>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/avinash-universe" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:support@universe-campus.app">
+    <img src="https://img.shields.io/badge/Email_Me-10B981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/avinash-git-24" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://universe-brown-seven.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/UniVerse_App-00E676?style=for-the-badge&logo=vercel&logoColor=black" alt="UniVerse Platform">
+  </a>
+</p>
 
 ---
 
