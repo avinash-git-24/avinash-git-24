@@ -126,6 +126,18 @@ learning: Advanced Next.js Architecture, Cloud Database Scaling & Web Performanc
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
+### 🐍 Contribution Activity Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/avinash-git-24/avinash-git-24/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/avinash-git-24/avinash-git-24/output/github-contribution-grid-snake.svg">
+    <img alt="Avinash's GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/avinash-git-24/avinash-git-24/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
 <div align="center">
   <!-- Dynamic Waving Footer -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,50:00B0FF,100:00E676&height=120&section=footer" width="100%" />
