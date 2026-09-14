@@ -3,11 +3,11 @@
   <!-- Dynamic Waving Animated Banner Header -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E676,50:00B0FF,100:1e293b&height=220&section=header&text=Avinash%20Kumar&fontSize=52&fontAlignY=36&desc=Full-Stack%20Web%20Developer%20%7C%20Building%20UniVerse%20Campus%20Platform&descAlignY=58&descAlign=50&fontColor=ffffff" width="100%" />
 
-  <br /><br />
+  <br />
 
-  <!-- Animated Typing Greeting -->
+  <!-- Animated Typing Greeting (Non-Repetitive, Punchy Tech Lines) -->
   <a href="https://github.com/avinash-git-24">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00E676&center=true&vCenter=true&width=620&lines=Hi+%F0%9F%91%8B%2C+I'm+Avinash+Kumar;Full-Stack+Web+Developer+%F0%9F%9A%80;Building+UniVerse+Campus+Platform+%F0%9F%8E%93;Next.js+%7C+TypeScript+%7C+Supabase+%7C+Tailwind" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=00E676&center=true&vCenter=true&width=650&lines=%E2%9A%A1+Turning+Ideas+into+Real-Time+Web+Apps;%F0%9F%9A%80+Architecting+UniVerse+Campus+Platform;%F0%9F%92%BB+Next.js+16+%7C+TypeScript+%7C+Supabase+%7C+Tailwind;%F0%9F%94%A5+Open-Source+Builder+%26+Full-Stack+Developer" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -27,9 +27,12 @@
     <a href="mailto:support@universe-campus.app">
       <img src="https://img.shields.io/badge/Email-Contact_Me-10B981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
+  </p>
+  <p align="center">
     <a href="https://github.com/sponsors/avinash-git-24" target="_blank">
       <img src="https://img.shields.io/badge/Sponsor-Avinash-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor Avinash">
     </a>
+    <img src="https://komarev.com/ghpvc/?username=avinash-git-24&label=Profile%20Views&color=00E676&style=for-the-badge" alt="Profile Views">
   </p>
 
 </div>
