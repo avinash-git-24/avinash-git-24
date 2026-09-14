@@ -37,7 +37,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+---
 
 ### 💫 About Me
 
@@ -50,7 +50,7 @@ currently_building: UniVerse — The Campus Super-App for snacks, peer delivery 
 learning: Advanced Next.js Architecture, Cloud Database Scaling & Web Performance
 ```
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+---
 
 ### 💻 What I Work With
 
@@ -99,7 +99,7 @@ learning: Advanced Next.js Architecture, Cloud Database Scaling & Web Performanc
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+---
 
 ### 📊 GitHub Activity & Stats
 
@@ -120,7 +120,7 @@ learning: Advanced Next.js Architecture, Cloud Database Scaling & Web Performanc
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=avinash-git-24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E676&text_color=c9d1d9" alt="Top Languages" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+---
 
 ### 🐍 Contribution Activity Snake
 
@@ -132,7 +132,7 @@ learning: Advanced Next.js Architecture, Cloud Database Scaling & Web Performanc
   </picture>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+---
 
 <div align="center">
   <!-- Dynamic Waving Footer -->
