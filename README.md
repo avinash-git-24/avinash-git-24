@@ -1,5 +1,10 @@
 <div align="center">
 
+  <!-- Dynamic Waving Animated Banner Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E676,50:00B0FF,100:1e293b&height=220&section=header&text=Avinash%20Kumar&fontSize=52&fontAlignY=36&desc=Full-Stack%20Web%20Developer%20%7C%20Building%20UniVerse%20Campus%20Platform&descAlignY=58&descAlign=50&fontColor=ffffff" width="100%" />
+
+  <br /><br />
+
   <!-- Animated Typing Greeting -->
   <a href="https://github.com/avinash-git-24">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00E676&center=true&vCenter=true&width=620&lines=Hi+%F0%9F%91%8B%2C+I'm+Avinash+Kumar;Full-Stack+Web+Developer+%F0%9F%9A%80;Building+UniVerse+Campus+Platform+%F0%9F%8E%93;Next.js+%7C+TypeScript+%7C+Supabase+%7C+Tailwind" alt="Typing SVG" />
@@ -113,5 +118,8 @@ learning: Advanced Next.js Architecture, Cloud Database Scaling & Web Performanc
 ---
 
 <div align="center">
+  <!-- Dynamic Waving Footer -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,50:00B0FF,100:00E676&height=120&section=footer" width="100%" />
+  <br />
   <sub>Designed with ❤️ by Avinash Kumar • Built on Next.js & Open Source</sub>
 </div>
