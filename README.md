@@ -50,10 +50,6 @@ currently_building: UniVerse — The Campus Super-App for snacks, peer delivery 
 learning: Advanced Next.js Architecture, Cloud Database Scaling & Web Performance
 ```
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="460" alt="Avinash Coding Workspace" />
-</div>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 ### 💻 What I Work With
