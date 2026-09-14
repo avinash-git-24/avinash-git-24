@@ -21,11 +21,14 @@
     <a href="https://github.com/avinash-git-24/universe" target="_blank">
       <img src="https://img.shields.io/badge/UniVerse-Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="UniVerse Code">
     </a>
-    <a href="https://www.linkedin.com/in/avinash-universe" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <a href="https://www.linkedin.com/in/avinash-kumar-86710b33a" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="mailto:support@universe-campus.app">
-      <img src="https://img.shields.io/badge/Email-Contact_Me-10B981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <a href="https://instagram.com/avinash_kumar_abhi__" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    </a>
+    <a href="mailto:abhiavi619@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
   </p>
   <p align="center">
@@ -177,11 +180,14 @@ learning: Advanced Next.js Architecture, Cloud Database Scaling & Web Performanc
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/avinash-universe" target="_blank">
+  <a href="https://www.linkedin.com/in/avinash-kumar-86710b33a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:support@universe-campus.app">
-    <img src="https://img.shields.io/badge/Email_Me-10B981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <a href="https://instagram.com/avinash_kumar_abhi__" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:abhiavi619@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://github.com/avinash-git-24" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
