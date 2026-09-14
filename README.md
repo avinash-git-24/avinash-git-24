@@ -32,9 +32,6 @@
     </a>
   </p>
   <p align="center">
-    <a href="https://github.com/sponsors/avinash-git-24" target="_blank">
-      <img src="https://img.shields.io/badge/Sponsor-Avinash-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor Avinash">
-    </a>
     <img src="https://komarev.com/ghpvc/?username=avinash-git-24&label=Profile%20Views&color=00E676&style=for-the-badge" alt="Profile Views">
   </p>
 
