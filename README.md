@@ -149,10 +149,10 @@ learning: Advanced Next.js Architecture, Cloud Database Scaling & Web Performanc
     <img src="https://img.shields.io/badge/YOLO-Unlocked_🏴-00E676?style=for-the-badge&logo=github&logoColor=white" alt="YOLO Badge">
   </a>
   <a href="https://github.com/avinash-git-24?tab=achievements" target="_blank">
-    <img src="https://img.shields.io/badge/Pull_Shark-Unlocked_🦈-00B0FF?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark Badge">
+    <img src="https://img.shields.io/badge/Galaxy_Brain-Unlocked_🧠-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Galaxy Brain Badge">
   </a>
   <a href="https://github.com/avinash-git-24?tab=achievements" target="_blank">
-    <img src="https://img.shields.io/badge/Pair_Extraordinaire-Unlocked_👯-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Pair Extraordinaire Badge">
+    <img src="https://img.shields.io/badge/Quickdraw-Unlocked_⚡-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Quickdraw Badge">
   </a>
 </p>
 
